@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 249.999px;
+        fill: #fff;
+        font-family: "AvantGarde Bk BT";
+      }
+      @media (prefers-color-scheme: light) {
+        .cls-1 {
+          fill: #000;
+        }
+      }
+    </style>
+  </defs>
+  <text id="hl" class="cls-1" x="21.963" y="219.012">hl</text>
+</svg>
